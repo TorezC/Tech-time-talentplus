@@ -1,0 +1,35 @@
+.footer{
+    background-color: #000F24;
+    padding: 80px 60px;
+    display: flex;
+    justify-content: space-between;
+}
+.tech-footer > p{
+    color: white;
+    width: 80%;
+}
+.socials{
+    display: flex;
+    gap: 15px;
+}
+.links > p {
+    font-family: 'Clash Display', sans-serif;
+    color: white;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 39px;                                        
+}
+.links > div{
+    color: #FFFFFF;
+}
+.links > span > input{
+    border: 1px solid #054FB3;
+    height: 26px;
+    background-color: #2A2A2B;
+}
+.links > span > button{
+    color: #ffffff;
+    background-color: #054FB3;
+    height: 30px;
+    border: none;
+}
