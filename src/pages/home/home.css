@@ -2,3 +2,29 @@
     background-color: #004DB3;
     padding: 40px 60px;
 }
+.grow{
+    display: flex;
+}
+.grow-words{
+    font-family: 'Clash Display', sans-serif;
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 52px;
+    color: white;
+    width: 50%;
+}
+.social-connect{
+    background-color: #CCDBF0;
+    /* padding: 60px; */
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.connect{
+    display: flex;
+    gap: 100px;
+}
+.connect > img{
+    width: 100px;
+    height: 100px;
+}
