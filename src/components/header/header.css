@@ -1,0 +1,19 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.nav-links{
+    display: flex;
+
+}
+.nav-links > li {
+    font-size: 16px;
+    padding: 10px;
+    color: #AAC4E6;
+    
+}
+.nav-links > li:nth-child(6){
+    background-color: #FFFFFF;
+    color: #004DB3;
+
+}
